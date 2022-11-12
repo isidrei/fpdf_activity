@@ -78,5 +78,6 @@ $pdf->SetTitle($title);
 $pdf->SetAuthor('Jamie McGuire');
 $pdf->PrintChapter(1,'Part 1','chap1.txt');
 $pdf->PrintChapter(2,'Part 2','chap2.txt');
+$pdf->PrintChapter(3,'Part 3','chap3.txt');
 $pdf->Output();
 ?>
