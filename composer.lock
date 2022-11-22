@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "da02c69b4cd3530704c694f762cab053",
+    "content-hash": "fecfb75949c8a2576b34a0984181f150",
     "packages": [
         {
             "name": "fpdf/fpdf",
-            "version": "1.84.2",
+            "version": "1.85.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/coreydoughty/Fpdf.git",
-                "reference": "c40f878297186eaa627a960f97218b1bd0953f64"
+                "reference": "5ba6a7d4363174ac828a0c15cc1b4a8f845b1e16"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/coreydoughty/Fpdf/zipball/c40f878297186eaa627a960f97218b1bd0953f64",
-                "reference": "c40f878297186eaa627a960f97218b1bd0953f64",
+                "url": "https://api.github.com/repos/coreydoughty/Fpdf/zipball/5ba6a7d4363174ac828a0c15cc1b4a8f845b1e16",
+                "reference": "5ba6a7d4363174ac828a0c15cc1b4a8f845b1e16",
                 "shasum": ""
             },
             "require": {
@@ -55,9 +55,9 @@
             ],
             "support": {
                 "issues": "https://github.com/coreydoughty/Fpdf/issues",
-                "source": "https://github.com/coreydoughty/Fpdf/tree/1.84.2"
+                "source": "https://github.com/coreydoughty/Fpdf/tree/1.85.0"
             },
-            "time": "2022-11-02T18:05:51+00:00"
+            "time": "2022-11-18T15:23:37+00:00"
         }
     ],
     "packages-dev": [],
